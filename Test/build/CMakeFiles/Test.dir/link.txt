@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libTest.so -o /home/sunxu/VSCodeProjects/Test/lib/libTest.so CMakeFiles/Test.dir/src/main.cpp.o 

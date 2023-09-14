@@ -1,0 +1,3 @@
+/home/sunxu/VSCodeProjects/Test/build/CMakeFiles/main.dir
+/home/sunxu/VSCodeProjects/Test/build/CMakeFiles/edit_cache.dir
+/home/sunxu/VSCodeProjects/Test/build/CMakeFiles/rebuild_cache.dir
