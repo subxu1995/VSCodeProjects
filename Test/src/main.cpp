@@ -6,16 +6,17 @@
 #include <thread>
 #include <list>
 #include <mutex>
+#include <cmath>
+#include <unordered_map>
+#include <typeinfo>
+
+using namespace std;
+
 
 int main()
 {
-    // int arr[8] = {33,56,2,9,0,1,4,8};
-    // quickSort(arr, 0, 7);
-    // for (int i = 0; i < sizeof(arr) / sizeof(int); ++i) {
-    //     std::cout << arr[i] << " ";
-    // }
-    // std::cout << std::endl;
-    std::cout << sizeof(int) << std::endl;
-    std::cout << sizeof(unsigned int) << std::endl;
+    int a = pow(2, 31) - 1;
+    int b = 2;
+    std::cout << sizeof(int64_t) << std::endl;
     return 0;
 }

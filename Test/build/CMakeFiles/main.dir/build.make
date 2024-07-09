@@ -73,29 +73,29 @@ CMakeFiles/main.dir/src/Point.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/Point.cpp.o: /home/sunxu/VSCodeProjects/Test/src/Point.cpp
 CMakeFiles/main.dir/src/Point.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sunxu/VSCodeProjects/Test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/src/Point.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/Point.cpp.o -MF CMakeFiles/main.dir/src/Point.cpp.o.d -o CMakeFiles/main.dir/src/Point.cpp.o -c /home/sunxu/VSCodeProjects/Test/src/Point.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/Point.cpp.o -MF CMakeFiles/main.dir/src/Point.cpp.o.d -o CMakeFiles/main.dir/src/Point.cpp.o -c /home/sunxu/VSCodeProjects/Test/src/Point.cpp
 
 CMakeFiles/main.dir/src/Point.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/src/Point.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sunxu/VSCodeProjects/Test/src/Point.cpp > CMakeFiles/main.dir/src/Point.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sunxu/VSCodeProjects/Test/src/Point.cpp > CMakeFiles/main.dir/src/Point.cpp.i
 
 CMakeFiles/main.dir/src/Point.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/Point.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sunxu/VSCodeProjects/Test/src/Point.cpp -o CMakeFiles/main.dir/src/Point.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sunxu/VSCodeProjects/Test/src/Point.cpp -o CMakeFiles/main.dir/src/Point.cpp.s
 
 CMakeFiles/main.dir/src/main.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/src/main.cpp.o: /home/sunxu/VSCodeProjects/Test/src/main.cpp
 CMakeFiles/main.dir/src/main.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/sunxu/VSCodeProjects/Test/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/src/main.cpp.o"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.o -MF CMakeFiles/main.dir/src/main.cpp.o.d -o CMakeFiles/main.dir/src/main.cpp.o -c /home/sunxu/VSCodeProjects/Test/src/main.cpp
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/src/main.cpp.o -MF CMakeFiles/main.dir/src/main.cpp.o.d -o CMakeFiles/main.dir/src/main.cpp.o -c /home/sunxu/VSCodeProjects/Test/src/main.cpp
 
 CMakeFiles/main.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/src/main.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sunxu/VSCodeProjects/Test/src/main.cpp > CMakeFiles/main.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/sunxu/VSCodeProjects/Test/src/main.cpp > CMakeFiles/main.dir/src/main.cpp.i
 
 CMakeFiles/main.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/src/main.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sunxu/VSCodeProjects/Test/src/main.cpp -o CMakeFiles/main.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/sunxu/VSCodeProjects/Test/src/main.cpp -o CMakeFiles/main.dir/src/main.cpp.s
 
 # Object files for target main
 main_OBJECTS = \

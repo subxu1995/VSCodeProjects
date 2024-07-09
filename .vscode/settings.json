@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "/home/sunxu/VSCodeProjects/Test",
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.useCMakePresets": "always"
+}
